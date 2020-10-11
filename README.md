@@ -11,7 +11,7 @@
 <a href="https://github.com/atanu-jana">
   <img align="left" alt="Atanu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/codepur_ka_superhero/">
+<a href="https://instagram.com/">
   <img align="left" alt="atanu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -28,7 +28,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[
 [![GitHub atanu-jana](https://img.shields.io/badge/Follow-1-orange?label=follow&style=social)](https://atanu-jana.github.io/)
 [![website](https://img.shields.io/badge/atanu--jana.github.io-PortfolioWebsite-009432?style=flat-square&logo=google-chrome)](https://atanu-jana.github.io/)
 
