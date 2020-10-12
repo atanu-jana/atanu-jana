@@ -26,7 +26,7 @@
 - 🤔 I’m looking for who work on [Firebase](https://firebase.google.com/) for app development.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 5 hours listening songs everyday also 1 hours playing online games.
 
 [![GitHub atanu-jana](https://img.shields.io/badge/Follow-1-orange?label=follow&style=social)](https://atanu-jana.github.io/)
 [![website](https://img.shields.io/badge/atanu--jana.github.io-PortfolioWebsite-009432?style=flat-square&logo=google-chrome)](https://atanu-jana.github.io/)
