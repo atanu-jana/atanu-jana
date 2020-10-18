@@ -5,7 +5,7 @@
 <a href="https://twitter.com">
   <img align="left" alt="Atanu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/atanu-jana">
+<a href="https://www.linkedin.com/public-profile/in/atanu-jana-4673001b2">
   <img align="left" alt="Atanu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/atanu-jana">
