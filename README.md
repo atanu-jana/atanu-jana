@@ -11,7 +11,7 @@
 <a href="https://github.com/atanu-jana">
   <img align="left" alt="Atanu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/">
+<a href="https://instagram.com/atanujana1">
   <img align="left" alt="atanu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
