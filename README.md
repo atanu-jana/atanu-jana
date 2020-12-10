@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu-jana&label=Views&color=blue&style=plastic" alt="atanu-jana" /> </p>
 
-<a href="https://twitter.com">
+<a href="https://twitter.com/atanujana_">
   <img align="left" alt="Atanu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/public-profile/in/atanu-jana-4673001b2">
