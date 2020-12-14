@@ -11,7 +11,7 @@
 <a href="https://github.com/atanu-jana">
   <img align="left" alt="Atanu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/atanujana1">
+<a href="https://instagram.com/iamatanujana">
   <img align="left" alt="atanu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on [ShortClick](https://shortclick.github.io/) && [LocalWork](https://atanu-jana.github.io/LocalWork/) .
+- 🔭 I’m currently working on [ShortClick](https://shortclick.github.io/) <!--&& [LocalWork](https://atanu-jana.github.io/LocalWork/) --> .
 - 🌱 I’m currently learning more about Flutter & Django.
 - 🤔 I’m looking for who work on [Firebase](https://firebase.google.com/) for app development.
 - 💬 Ask me about Flutter or any tech related stuff.
