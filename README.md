@@ -21,10 +21,10 @@
 
 
 
-- 🔭 I’m currently working on [ShortClick](https://shortclick.github.io/) <!--&& [LocalWork](https://atanu-jana.github.io/LocalWork/) --> .
-- 🌱 I’m currently learning more about Flutter & Django.
+- 🔭 I’m currently working on [ClipChat](https://play.google.com/store/apps/details?id=atanu.clipchat) <!--&& [LocalWork](https://atanu-jana.github.io/LocalWork/) --> .
+- 🌱 I’m currently learning more about Android Development.
 - 🤔 I’m looking for who work on [Firebase](https://firebase.google.com/) for app development.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Development.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours listening songs everyday also 1 hours playing online games.
 
