@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on [ClipChat](https://play.google.com/store/apps/details?id=atanu.clipchat) <!--&& [LocalWork](https://atanu-jana.github.io/LocalWork/) --> .
+- 🔭 I’m currently working on [ClipChat](https://play.google.com/store/apps/details?id=com.clipchat) <!--&& [LocalWork](https://atanu-jana.github.io/LocalWork/) --> .
 - 🌱 I’m currently learning more about Android Development.
 - 🤔 I’m looking for who work on [Firebase](https://firebase.google.com/) for app development.
 - 💬 Ask me about Development.
